@@ -1,0 +1,10 @@
+# Third-party drivers must never be committed or released.
+driver/
+*.inf
+*.cat
+*.cab
+*.sys
+*.zip
+*.exe
+*.msi
+*.log
